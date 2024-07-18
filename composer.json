@@ -21,7 +21,7 @@
         "symfony/templating": "~2.7|~3.0",
         "symfony/translation": "~2.7|~3.0",
         "psr/log": "~1.0",
-        "ruflin/elastica": "3.2.*"
+        "rafahsborges/elastica": "3.2.*"
     },
     "require-dev":{
         "doctrine/orm": "~2.4",

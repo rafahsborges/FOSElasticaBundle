@@ -11,7 +11,7 @@ in 4.0 versions.
 
 ### 4.0.0 (2017-03-30)
 
-* Add `ruflin/Elastica` 3.x support.
+* Add `rafahsborges/Elastica` 3.x support.
 * Add new repository manager.
 * Add support for `DateTimeInterface` in `ModelToElasticaAutoTransformer`.
 * Add support for suggesters.
